@@ -4,8 +4,8 @@
 //-----------------------
 // Plugin Information
 //-----------------------
-#define PLUGIN_VERSION              14
-#define PLUGIN_VERSION_STRING       "1.5.7"
+#define PLUGIN_VERSION              15
+#define PLUGIN_VERSION_STRING       "1.5.8"
 #define PLUGIN_NAME_SHORT           "autoswitch"
 #define PLUGIN_NAME_LONG            "Autoswitch"
 #define SUPPORTED_RUNTIME_VERSION   CURRENT_RELEASE_RUNTIME
